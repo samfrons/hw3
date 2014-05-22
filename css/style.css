@@ -1,0 +1,35 @@
+#content-wrapper{
+	width: 75%;
+	min-width: 500px;
+	margin: 0 auto;
+	padding: 1.5em;
+}
+
+#column1, #column2, #column3 {
+	float: left;
+	margin: 10px;
+	width: 25%;
+}
+
+#social-media-sidebar{
+	margin-top: 100px;
+	position: fixed;
+}
+
+img.logo {
+	margin: 5px;
+	height: 50px;
+	width: 50px;
+	opacity: .8;
+}
+
+img.gallery{
+	float: left;
+	height: 150px;
+	width: 200px;
+	margin-right: 5px; 
+}
+
+li {
+	list-style-type: none;
+}
